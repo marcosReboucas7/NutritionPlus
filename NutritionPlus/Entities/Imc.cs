@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Reflection.PortableExecutable;
-using System.Text;
-using System.Threading.Channels;
+﻿using System.Globalization;
 
-namespace NutriMais.Entities
+namespace NutritionPlus.Entities
 {
     internal class Imc
     {
