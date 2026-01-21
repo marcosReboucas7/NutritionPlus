@@ -13,13 +13,13 @@ O projeto surgiu a partir da colaboração com uma nutricionista, trazendo funci
 - Classificação do estado nutricional
 - Estrutura modular baseada em princípios SOLID
 
-## 🧱 Arquitetura e Boas Práticas
+##  Arquitetura e Boas Práticas
 - Separação de responsabilidades
 - Código orientado a domínio
 - Facilidade para testes e manutenção
 - Preparado para evolução de regras de negócio
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - C#
 - .NET
 - Entity Framework (planejado)
